@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- custom light theme: -->
+	<color name="dialog_message_text">#333333</color>
+	<color name="dialog_title_text">#00ff00</color>
+	<color name="dialog_title_separator">#00ff00</color>
+	<color name="dialog_button_text">#333333</color>
+	<color name="dialog_button_normal">@android:color/transparent</color>
+	<color name="dialog_button_pressed">#9900ff00</color> <!-- 60 % opacity -->
+	<color name="dialog_button_focused">#4C00ff00</color> <!-- 30 % opacity -->
+	<color name="dialog_button_separator">#2500ff00</color> <!-- 7% opacity -->
+	<!--<color name="dialog_button_separator">@color/dialog_title_separator</color>-->
+	<color name="background">#FFA500</color>
+</resources>
